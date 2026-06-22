@@ -9,15 +9,6 @@
 
   Creating these fields once prevents duplication
   across future reporting views.
-
-  Business Questions Supported:
-  Q1. Which months generate the highest revenue?
-
-  Q2. Which days contribute most to sales?
-
-  Q3. What are Starbucks' peak operating hours?
-
-  Q4. Do weekends perform differently from weekdays?
 */
 CREATE VIEW vw_sales_analysis_base
 AS
