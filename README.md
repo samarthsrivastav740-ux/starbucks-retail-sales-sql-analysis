@@ -20,8 +20,6 @@ The objective was to transform raw transactional data into analytical views that
 
 - ID • item • calories • fat • carb • fiber • protein • type 
 
-1 
-
 ## **Project Workflow** 
 
 ## **1. Data Quality Check** 
@@ -75,8 +73,6 @@ Schema Structure:
 ## **3. Analysis Views** 
 
 File: `3_Analysis_Views.sql` 
-
-2 
 
 Created reusable analytical views for reporting and business analysis. 
 
@@ -136,7 +132,6 @@ Views Created:
 
 - Product portfolio analysis identified Star, Dog, Opportunity, and Volume Driver products based on revenue and sales volume performance. 
 
-3 
 
 ## **SQL Concepts Used** 
 
@@ -164,6 +159,5 @@ Views Created:
 
 This project demonstrates a complete SQL analytics workflow covering data quality assessment, data modeling, analytical view creation, customer analysis, Pareto analysis, and product portfolio optimization using SQL Server. 
 
-4 
 
 
